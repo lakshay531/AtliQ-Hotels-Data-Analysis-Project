@@ -84,19 +84,4 @@ The primary goal of this project is to explore patterns in hotel booking data, a
 
 ---
 
-## Contributing
-Contributions are welcome! Please create a pull request with your improvements or suggestions.
 
----
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-## Contact
-For questions or suggestions, please contact:
-
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
